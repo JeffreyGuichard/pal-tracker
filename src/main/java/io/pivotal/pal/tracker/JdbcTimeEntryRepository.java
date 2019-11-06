@@ -6,7 +6,6 @@ import org.springframework.jdbc.core.RowMapper;
 import org.springframework.jdbc.support.GeneratedKeyHolder;
 import org.springframework.jdbc.support.KeyHolder;
 
-import javax.annotation.processing.Generated;
 import javax.sql.DataSource;
 import java.sql.Date;
 import java.sql.PreparedStatement;
